@@ -1,4 +1,4 @@
-# Heading RESTful API for user registration in the database for the login panel of the mobile application using the Python programming language and the Flask library.
+# RESTful API for user registration in the database for the login panel of the mobile application using the Python programming language and the Flask library.
 
 ---
 
